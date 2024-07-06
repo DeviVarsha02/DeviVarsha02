@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DeviVarsha02
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning Data Structure and Algorithms
+- 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me devivarsh17@gmail.com
 - 😄 Pronouns: she/her
 .
